@@ -1,4 +1,3 @@
-3 - 
 #include<iostream>
 using namespace std;
 #define SIZE 5 // Size can be changed from here
@@ -101,4 +100,5 @@ int main()
 
 	return 0;
 }
+
 
