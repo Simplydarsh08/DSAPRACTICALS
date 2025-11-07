@@ -1,4 +1,3 @@
-1 –
 #include <iostream>
 #include <cstring>
 #include <ctime>
@@ -166,4 +165,5 @@ int main() {
     free(students); // free dynamic memory
     return 0;
 }
+
 
